@@ -22,6 +22,27 @@ A powerful Legal RAG (Retrieval-Augmented Generation) application using Streamli
   - Advanced filtering options
   - Export chat history
 
+- **Trial Simulator**
+  - Speech-to-text and text-to-speech capabilities using:
+      - SpeechRecognition for converting speech to text
+      - gTTS (Google Text-to-Speech) for converting text to speech
+  - Interactive trial simulation with:
+      - Case type and topic selection
+      - Choice between text or speech input
+      - Generation of opposition arguments based on your legal document corpus
+      - Citation of relevant cases
+      - Potential counter-arguments
+      - Trial history tracking
+  - Integration with your existing vector store to:
+      - Pull relevant legal precedents
+      -  Generate contextually appropriate responses
+      -  Maintain consistency with your document corpus
+  - User-friendly interface features:
+      - Audio controls for speech playback
+      - Expandable sections for trial history
+      - Option to toggle between text and speech output
+      - Easy reset functionality
+
 ## Installation 🚀
 
 
