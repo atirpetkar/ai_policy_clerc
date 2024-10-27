@@ -24,15 +24,9 @@ A powerful Legal RAG (Retrieval-Augmented Generation) application using Streamli
 
 ## Installation 🚀
 
-### Option 1: Using Replit (Recommended)
 
-1. Fork the repository on Replit
-2. The environment will be automatically set up with all required dependencies
-3. Configure your OpenAI API key in the Replit secrets:
-   - Add `OPENAI_API_KEY` for OpenAI integration
-4. Click the "Run" button to start the application
 
-### Option 2: Local Installation
+### Option: Local Installation
 
 1. Clone the repository
 2. Ensure you have Python 3.9 or later installed (Python 3.9 - 3.11 supported)
